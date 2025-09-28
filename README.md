@@ -49,5 +49,5 @@ This dashboard delivers a comprehensive, data-driven view of Facebook campaign p
 ---
 
 ## 📷Dashboard Preview
-<img width="1905" height="777" alt="Sales Dashboard (2)" src="https://github.com/Sameer2615/Future_DS_02/blob/main/Facebook%20Campaign%20Ad%20Dashboard.png" />
+<img width="1905" height="777" alt="Sales Dashboard (2)" src="https://github.com/JKarthikReddy/FUTURE_DS_02/blob/main/Screenshot%202025-09-28%20213306.png" />
 ---
